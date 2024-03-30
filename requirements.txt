@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+selenium
+pandas
+numpy
+tensorflow
+keras
+matplotlib
+seaborn
