@@ -24,7 +24,7 @@ To run these notebooks and utilise the scripts within your environment, follow t
 
 1. Clone this repository to your local machine or Jupyter environment.
 
-`git clone https://github.com/Amar0302/CNN-Heatmap-Prediction.git`
+`git clone https://github.com/Amar0302/CNN-Heatmap-Prediction`
 
 2. Ensure you have Jupyter Notebook or JupyterLab installed. If not, you can install it using pip:
 
